@@ -1,0 +1,10 @@
+myenv/
+.env
+__pycache__/
+*.pyc
+*.log
+anh_canh_bao/
+*.docx
+*.tmp
+Claude outputs/
+.vscode/

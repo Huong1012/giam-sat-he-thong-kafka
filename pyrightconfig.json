@@ -1,0 +1,14 @@
+{
+  "venvPath": ".",
+  "venv": "myenv",
+  "extraPaths": [
+    "./myenv/Lib/site-packages"
+  ],
+  "exclude": [
+    "**/myenv",
+    "myenv",
+    "**/__pycache__"
+  ],
+  "reportMissingTypeStubs": false
+}
+
